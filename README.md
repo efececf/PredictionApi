@@ -1,0 +1,1 @@
+Bu proje python FlASK ile arıma ve sarıma istatistiksel tahmin modelini kullanarak borsa sitesine sunacağım bir serverdır. Clienttan gelen istege göre apiden spesifik Amerikan hisse senedine ait geleceğe yönelik kısa vadedeki tahmini fiyatlarını veren jsonı http sayfası olarak döndürür.
